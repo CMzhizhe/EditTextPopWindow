@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 圆角 淡蓝色背景 无边框 长方体 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:bottom="1dp">
+        <shape>
+            <solid android:color="@color/blue" />
+            <corners android:bottomRightRadius="5dip" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#fe0202</color>
+    <drawable name="gray">#CFCFCF</drawable>
+    <color name="black">#000000</color>
+        <drawable name="white">#ffffff</drawable>
+    <drawable name="blue">#28a7e1</drawable>
+    <color name="blue">#28a7e1</color>
+    <!-- 颜色 -->
+    <color name="white">#ffffff</color>
+    <color name="gray">#CFCFCF</color>
+</resources>
